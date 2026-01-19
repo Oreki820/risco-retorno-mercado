@@ -9,10 +9,11 @@
     <img src="https://img.shields.io/badge/Open%20Notebook-Google%20Colab-orange?style=for-the-badge&logo=googlecolab" />
   </a>
 
-  <a href="https://github.com/Oreki10/risco-retorno-mercado" target="_blank">
-    <img src="https://img.shields.io/badge/Source%20Code-GitHub-black?style=for-the-badge&logo=github" />
+  <a href="https://dadosnapratica.blogspot.com/2026/01/risco-e-retorno-no-mercado-financeiro-o.html" target="_blank">
+    <img src="https://img.shields.io/badge/Artigo%20Completo-Dados%20na%20Pr%C3%A1tica-blue?style=for-the-badge&logo=googlechrome" />
   </a>
 </p>
+
 
 Este projeto investiga empiricamente a relação entre risco, retorno e tempo em diferentes classes de ativos, usando apenas dados públicos. Além de análises descritivas (retorno, volatilidade e drawdown), o projeto testa modelos de machine learning para estimar risco futuro (volatilidade), com validação temporal adequada.
 
