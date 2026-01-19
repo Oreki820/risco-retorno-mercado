@@ -4,6 +4,8 @@ Este projeto investiga empiricamente a relação entre risco, retorno e tempo em
 
 O objetivo é educacional e técnico: demonstrar um pipeline reprodutível e conclusões sustentadas por dados, sem recomendações de investimento.
 
+acesse o notebook do projeto com este link: https://colab.research.google.com/drive/1Qm7z3PauLBO71ftCgJChAcvMSEVGId3T?usp=sharing
+
 ## Escopo e dados
 
 ### Ativos analisados (Yahoo Finance)
