@@ -1,10 +1,22 @@
 # Risco e retorno no mercado financeiro: o que os dados realmente mostram
 
+<p align="center">
+  <a href="https://huggingface.co/spaces/Oreki10/risco-retorno-mercado" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Demo-HuggingFace-yellow?style=for-the-badge&logo=huggingface" />
+  </a>
+
+  <a href="https://colab.research.google.com/drive/1Qm7z3PauLBO71ftCgJChAcvMSEVGId3T" target="_blank">
+    <img src="https://img.shields.io/badge/Open%20Notebook-Google%20Colab-orange?style=for-the-badge&logo=googlecolab" />
+  </a>
+
+  <a href="https://github.com/Oreki10/risco-retorno-mercado" target="_blank">
+    <img src="https://img.shields.io/badge/Source%20Code-GitHub-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
 Este projeto investiga empiricamente a relação entre risco, retorno e tempo em diferentes classes de ativos, usando apenas dados públicos. Além de análises descritivas (retorno, volatilidade e drawdown), o projeto testa modelos de machine learning para estimar risco futuro (volatilidade), com validação temporal adequada.
 
 O objetivo é educacional e técnico: demonstrar um pipeline reprodutível e conclusões sustentadas por dados, sem recomendações de investimento.
-
-acesse o notebook do projeto com este link: https://colab.research.google.com/drive/1Qm7z3PauLBO71ftCgJChAcvMSEVGId3T?usp=sharing
 
 ## Escopo e dados
 
