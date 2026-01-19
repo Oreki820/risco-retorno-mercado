@@ -1,7 +1,5 @@
 ## app.py (pronto para Hugging Face)
 
-
-```python
 import json
 import joblib
 import pandas as pd
