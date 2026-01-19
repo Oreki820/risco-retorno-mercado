@@ -1,9 +1,5 @@
+## app.py (pronto para Hugging Face)
 
----
-
-## 3) app.py (pronto para Hugging Face)
-
-Crie `app.py` com este conteúdo (ele é mais robusto que o seu anterior e evita avisos):
 
 ```python
 import json
